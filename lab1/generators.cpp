@@ -154,3 +154,7 @@ std::vector<uint8_t> librarian(size_t num_bytes, const std::string& filename) {
     }
     return sequence;
 }
+
+// все було так вдупляємо навіть якщо і реялізація виявиться неправильною
+// а потім стались бм і ббс 
+
